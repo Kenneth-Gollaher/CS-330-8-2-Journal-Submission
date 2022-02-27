@@ -1,6 +1,6 @@
 # CS-330-Graphic-and-Visualization-8-2-Journal-Submission
 
-# How do I approach designing software?
+# 1. How do I approach designing software?
 
 # What new design skills has your work on the project helped you to craft?
 
@@ -8,7 +8,7 @@
 
 # How could tactics from your design approach be applied in future work?
 
-# How do I approach developing programs?
+# 2. How do I approach developing programs?
 
 # What new development strategies did you use while working on your 3D scene?
 
@@ -16,7 +16,7 @@
 
 # How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
 
-# How can computer science help me in reaching my goals?
+# 3. How can computer science help me in reaching my goals?
 
 # How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
 
