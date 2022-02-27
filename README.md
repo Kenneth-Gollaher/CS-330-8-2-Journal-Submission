@@ -1,23 +1,12 @@
 # CS-330-Graphic-and-Visualization-8-2-Journal-Submission
 
-# 1. How do I approach designing software?
+# 1. How do I approach designing software? What new design skills has your work on the project helped you to craft? What design process did you follow for your project work? How could tactics from your design approach be applied in future work?
 
-# What new design skills has your work on the project helped you to craft?
+The entire course has been a new journey of design. Prior to this course, I have had no experience with implementing code for a 3D design. I believe the biggest skill that has helped me was learning the best methods for problem solving. Although each week was a struggle, the number one skill that I used to help craft this project was problem solving. The design process that I used was similar to the course. Develop a plan and take each part of the plan and divide it into sections that can be worked on and improved as you go. The approach that I used for this project can be applied to future work and is an essential skill to be successful. Make it simple and straightforward as possible. The more complex you make the code; the code maintenance and improvement may become more difficult. Another design approach is testing early and testing often to reduce issues at the end.
 
-# What design process did you follow for your project work?
+# 2. How do I approach developing programs? What new development strategies did you use while working on your 3D scene? How did iteration factor into your development? How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
 
-# How could tactics from your design approach be applied in future work?
+The development approach that I used was similar to what the course uses. The process of iteration. Taking the design step by step, corrected mistakes or improved the code with each iteration. Working in iterations and breaking a big project into smaller ones will make it less overwhelming. As mentioned above testing is key. Write a little bit of code and test it to ensure you don't have any syntax errors or warnings, then move forward with a little more and test again. With each milestone, you are conducting an iteration and adding to what you have already accomplished and making it better or more advanced. In my opinion, incorporating iterations in a project will help with the success of the product at the end. Keeping an open mind and taking a step at a time. 
 
-# 2. How do I approach developing programs?
+# 3. How can computer science help me in reaching my goals? How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway? How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
 
-# What new development strategies did you use while working on your 3D scene?
-
-# How did iteration factor into your development?
-
-# How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
-
-# 3. How can computer science help me in reaching my goals?
-
-# How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
-
-# How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
